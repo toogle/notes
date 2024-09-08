@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notes.toogle.io",
     ignorePatterns: [".obsidian"],
     defaultDateType: "created",
     theme: {
